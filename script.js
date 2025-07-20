@@ -15,7 +15,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     repoCard.classList.add('repository-card');
                     repoCard.innerHTML = `
                         <h3>${repo.name}</h3>
-                        <p>${repo.description || 'No description'}</p>
                         <p>Language: ${repo.language || 'Unknown'}</p>
                         <a href="${repo.html_url}" target="_blank">View on GitHub</a>
                     `;
