@@ -1,4 +1,4 @@
-# takehika-dev's Portfolio
+# takehika-dev
 
 Welcome to my personal portfolio website. This site showcases my projects and provides information about me.
 
